@@ -1,6 +1,6 @@
 # Git və GitHub praktiki tapşırıq
 
-**Ad, soyad, qrup:** Aysun Esedova, Qrup 123
+**Ad, soyad, qrup:** Aysun Esedova, Qrup 845i
 
 ## Layihə haqqında
 Bu layihədə Git və GitHub-ın əsas komandaları praktikada işlədilib.
